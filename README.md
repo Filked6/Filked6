@@ -1,16 +1,15 @@
 ## Hi there 👋
+Currently a Geoinformatics student at Warsaw University of Technology.
+This is a place where I save all my university and personal projects.
 
-<!--
-**Filked6/Filked6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on my engineering thesis and my own app.
+Interested in 3D modeling, UI/UX design, and a few other things.
 
-Here are some ideas to get you started:
+## Tools & Tech:
+Figma, Android Studio, ArcGIS Pro, QGIS, AutoCAD, Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A Bit About Me:
+* 🎨 Into Design ✨
+* 🎞️ Love watching movies and TV shows, especially Sci-Fi and action 🍿
+* 🚀 I'd love to build and release my own app 🛠️
+* 🎮 Playing games in my free time 🕹️
