@@ -13,3 +13,4 @@ Figma, Android Studio, ArcGIS Pro, QGIS, AutoCAD, Unity
 * 🎞️ Love watching movies and TV shows, especially Sci-Fi and action 🍿
 * 🚀 I'd love to build and release my own app 🛠️
 * 🎮 Playing games in my free time 🕹️
+* ✈️ love travelling and exploring new places 🗺️
