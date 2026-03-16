@@ -6,7 +6,7 @@ I'm currently working on my engineering thesis and my own app.
 Interested in 3D modeling, UI/UX design, and a few other things.
 
 ## Tools & Tech:
-Figma, Android Studio, ArcGIS Pro, QGIS, AutoCAD, Unity
+Figma, Android Studio, ArcGIS Pro, QGIS, AutoCAD, Unity, Python, Kotlin, JavaScript, ...
 
 ## A Bit About Me:
 * 🎨 Into Design ✨
